@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\bin\Debug\netcoreapp3.1\UAS_PAW1.exe
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\bin\Debug\netcoreapp3.1\UAS_PAW1.deps.json
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\bin\Debug\netcoreapp3.1\UAS_PAW1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\bin\Debug\netcoreapp3.1\UAS_PAW1.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\bin\Debug\netcoreapp3.1\UAS_PAW1.dll
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\bin\Debug\netcoreapp3.1\UAS_PAW1.pdb
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\obj\Debug\netcoreapp3.1\UAS_PAW1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\obj\Debug\netcoreapp3.1\UAS_PAW1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\obj\Debug\netcoreapp3.1\UAS_PAW1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\obj\Debug\netcoreapp3.1\UAS_PAW1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\obj\Debug\netcoreapp3.1\UAS_PAW1.dll
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\obj\Debug\netcoreapp3.1\UAS_PAW1.pdb
+C:\Users\LENOVO\source\repos\UAS_PAW1\UAS_PAW1\obj\Debug\netcoreapp3.1\UAS_PAW1.genruntimeconfig.cache
